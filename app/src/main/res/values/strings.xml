@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">Text To Speech (MP3) And Speech To Text (MP3)</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="ettPtText" translatable="false">A vivek dhiman or prospect, typically of attractive natural scenery, that can be taken in by the eye from a particular place.</string>
+    <string name="tvwPtCountry" translatable="false">Language:</string>
+    <string name="tvwPtStyle" translatable="false">Style:</string>
+    <string name="tvwPtGender" translatable="false">Gender:</string>
+    <string name="tvwPtNaturalSampleRateHertz" translatable="false">NaturalSampleRateHertz:</string>
+    <string name="tvwPtPitch" translatable="false">Pitch Rate:</string>
+    <string name="tvwPtSpeakRate" translatable="false">Speak Rate:</string>
+    <string name="btnPtSpeechText" translatable="false">Speak</string>
+    <string name="btnPtSpeechResume" translatable="false">Resume</string>
+    <string name="btnPtSpeechPause" translatable="false">Pause</string>
+    <string name="btnPtSpeechStop" translatable="false">Stop</string>
+    <string name="privacy" translatable="false">
+    <a href="https://beperfectdeveloper.blogspot.com/2021/08/text-to-speech-mp3-and-speech-to-text.html">Privacy : https://beperfectdeveloper.blogspot.com/2021/08/text-to-speech-mp3-and-speech-to-text.html</a>
+</string>
+    <string name="btnPtRefresh" translatable="false">Refresh</string>
+</resources>
